@@ -21,3 +21,5 @@ jupyter notebooks
   * EV charging stations in the Boston Region MPO area
 5. In the fourth 'code' cell in the notebook, specify your API key.
 6. Run the notebook; select __Cell -> Run All__ from the notebook menu.
+
+Reference document: [Data dictionary for data returned by API calls](https://afdc.energy.gov/data_download/alt_fuel_stations_format)
