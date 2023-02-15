@@ -1,5 +1,7 @@
 # get-electric-vehicle-charging-stations
-Notebook to use DOE/NREL API to generate shapefile of electric vehicle charging stations in Massachusetts
+Notebook to use DOE/NREL API to generate shapefiles of electric vehicle charging stations in 
+1. Massachusetts statewide
+2. the Boston MPO region only
 
 ## Pre-requisite
 In order to run this notebook, you must have an API key for the Department of Energy National Renewable Energy Laboratory's Developer Network.
